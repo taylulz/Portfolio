@@ -23,8 +23,4 @@ Bootstrap
 
 # Leagl
 Copyright (c) 2020 Taylor Delph
-This software is licensed under the MIT license.
-
-
--program setup instructions
--link to site on GitHub Pages
+This website is licensed under the MIT license.
