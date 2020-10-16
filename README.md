@@ -7,8 +7,7 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 
 ## Setup
 * Grab your mug of coffee
-* Navigate to *LINK TO GH PAGES HERE*
-* Click on the ______ page
+* Navigate to *https://taylulz.github.io/Portfolio/*
 * Try resizing the page
 * Check out some of the links
 
