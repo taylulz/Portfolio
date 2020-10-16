@@ -20,24 +20,37 @@ h1 {
   background-color: pink;
 }
 
+.box3 {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 50px;
+  border: solid purple;
+  background-color: pink;
+  box-sizing: border-box;
+}
+
+.box3 img {
+  float: center;
+  box-sizing: border-box;
+  margin: auto;
+  padding: 0px;
+  width: 50%;
+  box-sizing: border-box;
+
+}
 
 img {
-  float: ;
+  float: center;
   margin: auto;
   width: 30%;
   margin-bottom: 20px;
 }
 
-ul img {
-  float: center;
-  margin: auto;
-  width: 25%;
-  margin-bottom: 5%;
-  box-sizing: border-box;
-}
 
-.fun {
+#fun {
   font-family: cursive;
+  color: green;
 }
 
 .box6 {
