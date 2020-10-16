@@ -20,19 +20,11 @@ h1 {
   background-color: pink;
 }
 
-.box5 {
-  float: ;
-  margin: auto;
-  margin-bottom: 50px;
-  padding: 10px;
-  width: 100%;
-  background-color: red;
-}
 
 img {
   float: ;
   margin: auto;
-  width: 25%;
+  width: 30%;
   margin-bottom: 20px;
 }
 
@@ -46,4 +38,18 @@ ul img {
 
 .fun {
   font-family: cursive;
+}
+
+.box6 {
+  background-color: lightgoldenrodyellow;
+}
+
+.box5 {
+  float: ;
+  margin: auto;
+  margin-bottom: 50px;
+  padding: 10px;
+  width: 100%;
+  background-color: lightgoldenrodyellow;
+  box-sizing: border-box;
 }
