@@ -1,5 +1,5 @@
 # Portfolio Landing Page
-##### First Friday Independent Project, 10.16.20
+###### First Friday Independent Project, 10.16.20
 ### by Taylor Delph
 
 ## Description
@@ -10,20 +10,21 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 * Navigate to *LINK TO GH PAGES HERE*
 * Click on the ______ page
 * Try resizing the page
-* Click on some links
+* Check out some of the links
 
 ## Technologies used
 Basic markup language
+
 HTML
+
 CSS
+
 Bootstrap
 
 # Leagl
 Copyright (c) 2020 Taylor Delph
 This software is licensed under the MIT license.
 
--author name
--project name
--description of program
+
 -program setup instructions
 -link to site on GitHub Pages
