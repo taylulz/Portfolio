@@ -8,7 +8,7 @@ h1 {
   margin-bottom: 5px;
   width: 100%;
   padding: 30px;
-  border: solid black;
+  border: solid #DCF7DD;
   border-width: 20px;
   background-color: lightgoldenrodyellow;
   box-sizing: border-box;
@@ -16,8 +16,9 @@ h1 {
 
 .box1 {
   text-align: center;
-  border: solid purple;
-  background-color: pink;
+  border: solid #FFE0D4;
+  border-width: 10px;
+  background-color: #FFECFF;
 }
 
 .box3 {
@@ -25,8 +26,8 @@ h1 {
   margin: auto;
   margin-bottom: 20px;
   padding: 50px;
-  border: solid purple;
-  background-color: pink;
+  border: solid #FFB8B0;
+  background-color: #FADCE0;
   box-sizing: border-box;
 }
 
@@ -54,7 +55,10 @@ img {
 }
 
 .box6 {
-  background-color: lightgoldenrodyellow;
+  margin: center;
+  padding-left: 10px;
+  width: 100%;
+  padding: 1%;
 }
 
 .box5 {
@@ -63,6 +67,6 @@ img {
   margin-bottom: 50px;
   padding: 10px;
   width: 100%;
-  background-color: lightgoldenrodyellow;
+
   box-sizing: border-box;
 }
