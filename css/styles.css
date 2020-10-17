@@ -62,7 +62,7 @@ img {
 }
 
 .box5 {
-  float: ;
+
   margin: auto;
   margin-bottom: 50px;
   padding: 10px;
@@ -70,3 +70,26 @@ img {
 
   box-sizing: border-box;
 }
+
+#problem {
+  text-align: left;
+  float: left;
+  border: solid firebrick;
+  padding: 10px;
+  width: 49%;
+
+}
+
+#soulution {
+float: right;
+width: 49%;
+border: solid palegreen;
+padding: 10px;
+
+}
+
+#further {
+  float: right;
+  width: 100%;
+  padding: 10px;
+  }
