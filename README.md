@@ -7,10 +7,10 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 
 ## Setup
 * Grab your mug of coffee
-* Navigate to *https://taylulz.github.io/Portfolio/*
+* Navigate to [my github pages site]*(https://taylulz.github.io/Portfolio/)*
 * Try resizing the page
 * Check out some of the links
-* Click the pictures of the synths to learn more about them
+* Click the picture links of the synths to learn more about them
 
 ## Technologies used
 Basic markup language
