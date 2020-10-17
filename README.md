@@ -11,6 +11,7 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 * Try resizing the page
 * Check out some of the links
 * Click the picture links to learn more about the synths:
+
 <img src="img/prologue.jpg" width="200px" height="100px"><img src="img/ns5r.jpg" width="200px" height="100px">
 
 ## Technologies used
