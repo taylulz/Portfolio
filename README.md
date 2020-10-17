@@ -11,7 +11,7 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 * Try resizing the page
 * Check out some of the links
 * Click the picture links to learn more about the synths:
-![prologue](/img/prologue.jpg) ![ns5r](/img/ns5r.jpg)
+<img src="img/prologue.jpg> <img src="img/ns5r.jpg">
 
 ## Technologies used
 Basic markup language
