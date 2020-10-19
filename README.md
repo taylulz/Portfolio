@@ -14,8 +14,13 @@ This webpage is the _first_ independent Friday project for Epicodus. It's an exe
 
 <img src="img/prologue.jpg" width="200px" height="100px"><img src="img/ns5r.jpg" width="200px" height="100px">
 
+## Known bugs
+Images of synthesizers stack on top of each other when window is resized to smallest possible width.
+
 ## Technologies used
-Basic markup language
+Markdown
+
+GitBash
 
 HTML
 
@@ -23,11 +28,14 @@ CSS
 
 Bootstrap
 
+VS Code
+
 # What I learned in making this webpage
-How to have images as links
+Include images as links
 
-How have link navigate to specified page number
+How have link navigate to specified pdf page number
 
+Include links in readme
 
 
 
