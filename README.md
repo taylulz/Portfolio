@@ -30,15 +30,17 @@ Bootstrap
 
 VS Code
 
-# What I learned in making this webpage
+# What new things I learned in making this webpage
 Include images as links
 
-How have link navigate to specified pdf page number
+Link navigation to specified pdf page number
 
 Include links in readme
 
 
 
+
 # Leagl
 Copyright (c) 2020 Taylor Delph
+
 This website is licensed under the MIT license.
