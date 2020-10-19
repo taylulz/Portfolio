@@ -33,7 +33,7 @@ VS Code
 # What new things I learned in making this webpage
 Include images as links
 
-Link navigation to specified pdf page number
+Link navigates to specified pdf page number
 
 Include links in readme
 
